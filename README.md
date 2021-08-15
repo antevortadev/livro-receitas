@@ -1,6 +1,7 @@
-Bem vindo ao livro de receitas 🍳👩‍
+# Livro de receitas :man_cook:
 
--- Strogonoff
--- Pavê
+Olá! Bem vindo ao meu livro de receita :wave:
 
+- Strogonoff
+- Pavê
 
